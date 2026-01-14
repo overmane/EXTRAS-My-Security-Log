@@ -65,10 +65,10 @@ Scenario	Indicators & Traffic Patterns:
 
 ## Sources
 
-* YouTube ~1h lecture #1 about essentials: https://youtu.be/byL8VMEMC0M
-* YouTube ~1h lecture #2 about essentials: https://youtu.be/a_4MjV_-7Sw
-* YouTube ~0.3h extra lecture #3 for consolidation of essential info: https://youtu.be/qTaOZrDnMzQ
-* Cheat sheet: https://www.stationx.net/how-to-use-wireshark-to-capture-network-traffic
+* YouTube ~1h lecture #1 about Wireshark essentials: https://youtu.be/byL8VMEMC0M
+* YouTube ~1h lecture #2 about Wireshark essentials: https://youtu.be/a_4MjV_-7Sw
+* YouTube ~0.3h extra lecture #3 for consolidation of Wireshark essential info: https://youtu.be/qTaOZrDnMzQ
+* Wireshark cheat sheet: https://www.stationx.net/how-to-use-wireshark-to-capture-network-traffic
 
 ---
 
