@@ -57,6 +57,7 @@ Scenario	Indicators & Traffic Patterns:
 
 > **Author's Perspective**:
 > When you first see the running lines of IPs and hex data, it’s normal to think "what is going on here?" However, once you familiarize yourself with display filters and protocol hierarchy, the noise clears.
+>
 > **From an Offensive Security standpoint**,
 > Wireshark is the ultimate "truth" in the wire. If an exploit fails, the answer is in the packets. If a user authenticates over HTTP/FTP/Telnet, their identity is mine. As a Junior Red Team specialist, mastering these patterns is essential for verifying my impact and staying stealthy.
 
