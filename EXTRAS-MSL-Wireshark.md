@@ -48,7 +48,7 @@ Analyzing a packet capture isn't about looking at every packet; it’s about **p
 Scenario	Indicators & Traffic Patterns:  
 * **Auth Exfiltration**:	Look for **POST /login.php** or **POST /wp-login.php**, etc. Inspect the body for sequences like e.g. **uname: admin** and **pass: Winter2024!**.
 * **Port Scanning**: A "wall" of **[SYN] packets** from a single source to multiple IPs or ports (e.g., 192.168.1.5 -> .10, .11, .12 on Port 80).
-* **SMB Exploitation**: Look for **SMB2 traffic** with "Create Request" for suspicious files like **PSEXESVC.exe** or random strings in **C:\Windows\**.
+* **SMB Exploitation**: Look for **SMB2 traffic** with "Create Request" for suspicious files like **PSEXESVC.exe** or random strings in **C:\Windows**.
 * **Exploit Debugging**: Analyze the route of the exploit and the specific server response codes to troubleshoot failures.
 
 ---
