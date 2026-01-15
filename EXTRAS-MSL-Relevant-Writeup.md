@@ -175,6 +175,8 @@ Navigate: http://10.80.131.73:49663/nt4wrksv/shell.aspx
 
 *Catch the reverse shell in netcat.*
 
+<img width="720" height="158" alt="netcat" src="https://github.com/user-attachments/assets/3faaff6f-d2c7-4586-800e-2759cac435fd" />
+
 ```text
 c:\Users\Bob\Desktop>type user.txt
 ```
