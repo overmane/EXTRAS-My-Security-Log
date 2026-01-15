@@ -215,7 +215,7 @@ output.txt:
 Privilege "SeImpersonatePrivilege" is Enabled
 ```
 
-*We can run "PrintSpoofer" and get the SYSTEM via "potato" vector.*
+*We can run **"PrintSpoofer"** and get the SYSTEM via "potato" vector.*
 
 ---
 
