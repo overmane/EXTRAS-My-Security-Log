@@ -62,8 +62,8 @@ $ ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt:FUZZ -u "http://i
 <img width="1242" height="688" alt="fuzz" src="https://github.com/user-attachments/assets/2a4e83b1-0b7e-4f81-b642-826cecdace1b" />
 
 It's our targets:  
-http://internal.thm/blog
-http://internal.thm/phpmyadmin
+* http://internal.thm/blog
+* http://internal.thm/phpmyadmin
 
 Navigate to the **blog** page:  
 <img width="1920" height="969" alt="blog" src="https://github.com/user-attachments/assets/019da466-35bd-4d9e-ac9c-fce16d8d607b" />
