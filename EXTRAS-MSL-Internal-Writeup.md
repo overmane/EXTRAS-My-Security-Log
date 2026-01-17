@@ -39,7 +39,7 @@ Add the domain to /etc/hosts:
 
 I'm also going to add the domain to **C:\Windows\System32\drivers\etc\hosts** on my Windows 11 host machine for most compatibility between my WSL2 Kali Linux and Windows 11 host:  
 ```shell
-Start-Process notepad.exe -ArgumentList "C:\Windows\System32\drivers\etc\hosts" -Verb RunAs
+> Start-Process notepad.exe -ArgumentList "C:\Windows\System32\drivers\etc\hosts" -Verb RunAs
 ```
 
 ```text
@@ -120,8 +120,7 @@ Put the **pentestmonkey** reverse shell (https://github.com/pentestmonkey/php-re
 
 *Update File.*
 
-Navigate to a random non-existent web page to trigger a 404 error:  
-http://internal.thm/blog/index.php/qwertyabc123
+Navigate to a random non-existent web page to trigger a 404 error: http://internal.thm/blog/index.php/qwertyabc123
 
 Here we go.
 
