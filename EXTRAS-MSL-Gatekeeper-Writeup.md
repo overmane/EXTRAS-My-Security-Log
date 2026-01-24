@@ -214,7 +214,7 @@ Now look for a pointers (download "mona" from GitHub):
 
 <img width="560" height="252" alt="mona" src="https://github.com/user-attachments/assets/69514792-cb8d-470b-997c-353e1b84c33c" />
 
-We have the two pointers there:  
+We have two pointers there:  
 ```text
 0x080414c3
 0x080416bf
